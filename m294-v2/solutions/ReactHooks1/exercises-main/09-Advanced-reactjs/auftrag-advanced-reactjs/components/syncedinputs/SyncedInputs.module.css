@@ -1,0 +1,9 @@
+.syncedinputs {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+}
+
+.syncedinputs label input {
+    margin-left: 0.5em;
+}

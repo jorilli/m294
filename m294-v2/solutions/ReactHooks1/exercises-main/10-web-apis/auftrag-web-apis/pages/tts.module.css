@@ -1,0 +1,14 @@
+.texttospeech form {
+    display: flex;
+    flex-direction: column;
+    padding: 0.5em;
+}
+
+.texttospeech form > * {
+    margin: 0.5em 0;
+}
+
+.texttospeech form textarea {
+    resize: none;
+    min-height: 200px;
+}
