@@ -1,0 +1,24 @@
+.default {
+    background-color: skyblue;
+    display: flex;
+}
+
+.success {
+    background-color: green;
+    display: flex;
+}
+
+.danger {
+    background-color: darkred;
+    display: flex;
+}
+
+.warning {
+    background-color: orangered;
+    display: flex;
+}
+
+.info {
+    background-color: blue;
+    display: flex;
+}

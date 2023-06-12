@@ -1,0 +1,15 @@
+.column {
+    float: left;
+    width: 50%;
+}
+
+.row:after {
+    display: table;
+    clear: both;
+}
+
+ul.no-dots {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
